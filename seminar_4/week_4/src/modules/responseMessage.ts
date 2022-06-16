@@ -6,7 +6,9 @@ const message = {
     CREATE_USER_SUCCESS: '유저 생성 성공',
     UPDATE_USER_SUCCESS: '유저 업데이트 성공',
     READ_USER_SUCCESS: '유저 조회 성공',
-    DELETE_USER_SUCCESS: '유저 삭제 성공'
+    DELETE_USER_SUCCESS: '유저 삭제 성공',
+    CREATE_REVIEW_SUCCESS: '리뷰 작성 성공',
+    READ_REVIEW_SUCCESS: '리뷰 조회 성공',
 }
 
 export default message;
