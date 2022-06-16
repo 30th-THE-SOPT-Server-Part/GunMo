@@ -1,6 +1,6 @@
 import { Router } from "express";
 import ReviewController from "../controllers/ReviewController";
-import { body } from "express-validator";
+import { body } from "express-validator/check";
 import auth from "../middleware/auth"
 const router: Router = Router();
 

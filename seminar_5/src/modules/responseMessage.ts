@@ -13,7 +13,11 @@ const message = {
     READ_REVIEW_SUCCESS: '리뷰 조회 성공',
 
     SIGNIN_USER_SUCCESS: '유저 로그인 성공',
-    INVAILD_PASSWORD: '패스워드 틀려요'
+    INVAILD_PASSWORD: '패스워드 틀려요',
+
+    CREATE_MOVIE_SUCESS: '영화 생성 성공',
+    CREATE_MOVIE_COMMENT_SUCCESS: '댓글 작성 성공',
+    READ_MOVIE_SUCEESS: '영화 조회 성공'
 }
 
 export default message;
